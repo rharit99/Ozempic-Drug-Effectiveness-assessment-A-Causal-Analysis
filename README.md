@@ -4,7 +4,6 @@
 
 Objective: This project aims to explore the impact of Ozempic on obese and hypertensive patients aged 40-75, emphasizing accurate treatment effect estimations by addressing endogeneity issues.
 
-
 **📚 Data Overview**
 
 Datasets Used:
